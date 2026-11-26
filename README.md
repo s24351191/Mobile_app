@@ -11,7 +11,6 @@
   - `database` — SQL-скрипты;
   - `tests` — тесты сервера.
 - `images` — картинки товаров.
-- `docs` — методичка и страницы с кодом.
 - `tools` — инструменты (Flutter, Android Studio, Android SDK, Gradle).
 
 ## Что нужно установить
