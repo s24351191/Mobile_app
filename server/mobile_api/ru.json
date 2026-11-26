@@ -1,0 +1,18 @@
+{
+  "cart.empty": "Корзина пуста.",
+  "errors.cart_refresh_required": "Обновите корзину перед оформлением.",
+  "errors.insufficient_stock": "На складе недостаточно пар выбранного размера.",
+  "errors.negative_points": "Количество баллов не может быть отрицательным.",
+  "errors.order_accept_first": "Сначала примите заказ. Завершить можно только принятый заказ.",
+  "errors.order_customer_cancel_locked": "Менеджер уже принял заказ. Самостоятельная отмена недоступна; обратитесь в магазин.",
+  "errors.order_not_editable": "Это действие недоступно для текущего статуса заказа.",
+  "errors.order_not_found": "Заказ не найден.",
+  "errors.order_staff_action": "Принимать, отклонять и завершать заказы может только менеджер.",
+  "errors.order_status": "Неизвестный статус заказа.",
+  "errors.points_limit": "Для этого заказа можно списать не больше {value0} баллов.",
+  "errors.product_quantity": "Товар «{value0}», размер {value1}, недоступен в этом количестве.",
+  "errors.product_unavailable": "Этот товар недоступен.",
+  "errors.quantity_range": "Количество должно быть от 0 до 99.",
+  "errors.recipient_fields": "Укажите имя получателя (2-100 знаков) и адрес (5-300 знаков).",
+  "errors.refresh_cart": "Обновите страницу корзины."
+}

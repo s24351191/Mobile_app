@@ -1,0 +1,18 @@
+{
+  "cart.empty": "Your cart is empty.",
+  "errors.cart_refresh_required": "Refresh your cart before checking out.",
+  "errors.insufficient_stock": "There are not enough pairs in this size.",
+  "errors.negative_points": "Points cannot be negative.",
+  "errors.order_accept_first": "Accept the order first. Only accepted orders can be completed.",
+  "errors.order_customer_cancel_locked": "The manager has accepted this order. You can no longer cancel it yourself; contact the shop.",
+  "errors.order_not_editable": "This action is unavailable for the current order status.",
+  "errors.order_not_found": "Order not found.",
+  "errors.order_staff_action": "Only a manager can accept, reject or complete orders.",
+  "errors.order_status": "Unknown order status.",
+  "errors.points_limit": "You can use up to {value0} points for this order.",
+  "errors.product_quantity": "There are not enough pairs of {value0}, size {value1}.",
+  "errors.product_unavailable": "This product is unavailable.",
+  "errors.quantity_range": "Quantity must be between 0 and 99.",
+  "errors.recipient_fields": "Enter a recipient name (2-100 characters) and address (5-300 characters).",
+  "errors.refresh_cart": "Refresh the cart page."
+}
